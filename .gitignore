@@ -1,0 +1,4 @@
+# Kun den krypterede side og denne fil må committes.
+*
+!index.html
+!.gitignore
